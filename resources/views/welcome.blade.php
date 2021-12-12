@@ -28,6 +28,7 @@
     
     <!--====== Style CSS ======-->
     <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
+    <link rel="stylesheet" href="{{asset('css/app.css')}}">
     <link rel="stylesheet" href="assets/css/tailwind.css">
     
 </head>
@@ -36,7 +37,7 @@
     <!--[if IE]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->    
-   
+        
    
     <!--====== PRELOADER PART START ======-->
 
@@ -136,7 +137,7 @@
     
     <!--====== BRAMD PART START ======-->
     
-    <div class="pt-24 brand-area">
+    <div class="pt-24 brand-area bg-red-400 hidden md:flex">
         <h1 class="mb-3 text-4xl font-bold text-black header-title wow fadeInUp text-center">Creamos soluciones para</h1>
         <div class="container">
             <div class="row">
@@ -184,7 +185,7 @@
                         <div class="mt-8 services-content">
                             <h4 class="mb-8 text-xl font-bold text-gray-900">Desarrollo de Páginas Web</h4>
                             <p class="mb-8">Desarrollamos páginas Web informativas, administrables y de gestión, para que tu negocio tenga buena presencia en la web.</p>
-                            <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>
+                           
                         </div>
                     </div> <!-- single services -->
                 </div>
@@ -198,7 +199,7 @@
                         <div class="mt-8 services-content">
                             <h4 class="mb-8 text-xl font-bold text-gray-900">Sistemas de Gestión</h4>
                             <p class="mb-8">Creamos aplicaciones para optimizar tus tareas y procesos: facturación, manejo de cuentas, finanzas y mucho más.</p>
-                            <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>
+                            
                         </div>
                     </div> <!-- single services -->
                 </div>
@@ -212,7 +213,7 @@
                         <div class="mt-8 services-content">
                             <h4 class="mb-8 text-xl font-bold text-gray-900">Asesoría Digital</h4>
                             <p class="mb-8">Instalamos y configuramos sistemas informáticos, brindamos asesoría digital, manejo de medios sociales y más.</p>
-                            <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>
+                            
                         </div>
                     </div> <!-- single services -->
                 </div>
