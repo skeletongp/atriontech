@@ -9,7 +9,11 @@
     
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta property="og:title" content="AtrionTech Soluciones Digitales" />
+    <meta property="og:type" content="text" />
+    <meta property="og:url" content="https://atriontechsd.com/" />
+    <meta property="og:image" content=assets/images/logo.png" />
+    <meta name="description" content="Desarrollo de software y soluciones informáticas para pequeños y medianos negocios. Asesoría digital." />
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
         
@@ -83,19 +87,19 @@
                                         <a class="page-scroll" href="#home">Home</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="page-scroll" href="#features">Servicios</a>
+                                        <a class="page-scroll" href="#services">Servicios</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="page-scroll" href="#about">Conócenos</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="page-scroll" href="#facts">Contacto</a>
+                                        <a class="page-scroll" href="#contact">Contacto</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="page-scroll" href="#team">Nuestro Equipo</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="page-scroll" href="#blog">Proyectos</a>
+                                        <a class="page-scroll" href="#project">Proyectos</a>
                                     </li>
                                 </ul>
                             </div> <!-- navbar collapse -->
@@ -164,7 +168,7 @@
     
     <!--====== SERVICES PART START ======-->
     
-    <section id="features" class="services-area pt-120">
+    <section id="services" class="services-area pt-120">
         <div class="container">
             <div class="justify-center row">
                 <div class="w-full lg:w-2/3">
@@ -312,7 +316,7 @@
     
     <!--====== VIDEO COUNTER PART START ======-->
     
-    <section id="facts" class="pt-20 video-counter">
+    <section id="contact" class="pt-20 video-counter">
         <div class="container">
             <div class="row">
                 <div class="w-full lg:w-1/2">
@@ -376,7 +380,7 @@
                 </div>
             </div> <!-- row -->
             <div class="justify-center row">
-                <div class="w-full sm:w-2/3 lg:w-1/3">
+                <div class="w-full sm:w-2/3 lg:w-1/4">
                     <div class="mt-8 text-center single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
                         <div class="relative team-image">
                             <img class="w-full" src="assets/images/team1.jpg"  alt="Team">
@@ -394,7 +398,24 @@
                         </div>
                     </div> <!-- single team -->
                 </div>
-                <div class="w-full sm:w-2/3 lg:w-1/3">
+                <div class="w-full sm:w-2/3 lg:w-1/4">
+                    <div class="mt-8 text-center single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+                        <div class="relative team-image">
+                            <img class="w-full" src="assets/images/team4.jpg" alt="Team">
+                            <div class="team-social">
+                                <ul>
+                                    <li><a target="_blank" href="https://www.instagram.com/alexandra_santos1004/"><i class="lni lni-instagram-filled"></i></a></li>
+                                    <li><a target="_blank" href="https://www.linkedin.com/in/alexandra-santos-10767017b/"><i class="lni lni-linkedin-original"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="p-8 px-4">
+                            <h5 class="mb-1 text-xl font-bold text-gray-900">Lic. Alexandra Santos</h5>
+                            <p>RRHH Analist y Admin. Asist.</p>
+                        </div>
+                    </div> <!-- single team -->
+                </div>
+                <div class="w-full sm:w-2/3 lg:w-1/4">
                     <div class="mt-8 text-center single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
                         <div class="relative team-image">
                             <img class="w-full" src="assets/images/team2.jpg" alt="Team">
@@ -411,7 +432,7 @@
                         </div>
                     </div> <!-- single team -->
                 </div>
-                <div class="w-full sm:w-2/3 lg:w-1/3">
+                <div class="w-full sm:w-2/3 lg:w-1/4">
                     <div class="mt-8 text-center single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
                         <div class="relative team-image">
                             <img class="w-full" src="assets/images/team3.jpg" alt="Team">
@@ -436,7 +457,7 @@
     
     <!--====== TESTIMONIAL PART START ======-->
     
-    <section id="blog" class="testimonial-area pt-120">
+    <section id="project" class="testimonial-area pt-120">
         <div class="container">
             <div class="justify-center row">
                 <div class="w-full lg:w-2/3">
