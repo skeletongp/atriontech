@@ -72,7 +72,7 @@
                 <div class="row">
                     <div class="w-full">
                         <nav class="flex items-center justify-between navbar navbar-expand-lg">
-                            <a class="mr-4 navbar-brand " href="index.html">
+                            <a class="mr-4 navbar-brand " href="/">
                                 <img src="assets/images/logo.png" width="240" alt="Logo">
                             </a>
                             <button class="block navbar-toggler focus:outline-none lg:hidden" type="button" data-toggle="collapse" data-target="#navbarOne" aria-controls="navbarOne" aria-expanded="false" aria-label="Toggle navigation">
