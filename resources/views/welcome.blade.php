@@ -151,9 +151,7 @@
                         <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.3s">
                             <h1 class="text-4xl font-bold text-black header-title wow fadeInUp text-center">Emprendedores</h1>
                         </div> <!-- single logo -->
-                        <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.4s">
-                            <h1 class="text-4xl font-bold text-black header-title wow fadeInUp text-center">PYMES</h1>
-                        </div> <!-- single logo -->
+                        
                        
                     </div> <!-- brand logo -->
                 </div>
